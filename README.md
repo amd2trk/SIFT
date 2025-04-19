@@ -1,4 +1,3 @@
-Here's a **README.md** file for your project based on the code and context from the assignment:
 
 ---
 
@@ -51,8 +50,3 @@ google.colab
 
 ## 📚 References
 - [David Lowe's SIFT Paper (2004)](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
-- Assignment guidelines provided in `SIFT_Assignment.pdf`.
-
----
-
-Let me know if you’d like to turn this into a downloadable `README.md` file or add GitHub badges or screenshots.
